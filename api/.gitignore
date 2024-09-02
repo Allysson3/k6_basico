@@ -4,4 +4,3 @@ tmp/*
 uploads/*
 .DS_Store
 yarn.lock
-.env
