@@ -40,7 +40,7 @@
 
 [Node.js](https://nodejs.org/) v16 ou superior para executar.
 
-Para liberar o gerenciador de pacotes Yarn:
+Para liberar o gerenciador de pacotes Yarn (Opcional):
 
 ```
 corepack enable
@@ -50,14 +50,6 @@ Execute os comandos abaixo para instalar das dependências do projeto:
 
 ```sh
 cd curso-k6-basico/api
-yarn install
-yarn dev
+yarn install ou npm install
+yarn dev ou npm run dev
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
